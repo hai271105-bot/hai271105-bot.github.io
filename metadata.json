@@ -1,0 +1,5 @@
+{
+  "name": "Trắc Nghiệm Biến Thể - Master AI",
+  "description": "An adaptive learning application that transforms exam questions when a student answers incorrectly, helping them deeply understand concepts. It generates thousands of variations from a single root question and awards a mastery certificate upon completion.",
+  "requestFramePermissions": []
+}
